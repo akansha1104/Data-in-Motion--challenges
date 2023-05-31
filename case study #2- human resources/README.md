@@ -1,4 +1,4 @@
-# 🌸 Case Study #2 : Human Resources 
+# 🏬 Case Study #2 : Human Resources 
 
 
 

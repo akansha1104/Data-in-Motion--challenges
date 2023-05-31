@@ -1,4 +1,4 @@
-# 👩‍🦱 👨‍🦱 📊 📃 Case study #2 -- Human Resources--- Solutions!!!
+#  📊 📝 Case study #2 -- Human Resources--- Solutions!!!
 
 
 

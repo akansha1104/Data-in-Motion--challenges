@@ -8,7 +8,7 @@ Thanks Kedeisha Bryan for the excellent SQL case studies!!.  💐👍
 
  # 📚 Table of contents
  
-   1. [Case Study #1 : Tiny Shop Sales]()
+   1. [Case Study #1 : Tiny Shop Sales](https://github.com/akansha1104/Data-in-Motion--challenges/tree/main/tiny%20shop%20sales)
    2. [Case Study #2 : Human Resources](https://github.com/akansha1104/Data-in-Motion--challenges/tree/main/case%20study%20%232-%20human%20resources)
 
 
@@ -26,7 +26,7 @@ Thanks Kedeisha Bryan for the excellent SQL case studies!!.  💐👍
 In this case study I used various functions and aggregations to solve business questions. Using the tiny shop order data, I calculated metrics important to the organization, and analyze data for order rate, spending and sales pattern and product popularity.
 
 
-click [here]() to view my solution!!!
+click [here](https://github.com/akansha1104/Data-in-Motion--challenges/blob/main/tiny%20shop%20sales/tiny%20shop%20solutions.md) to view my solution!!!
 
 
 

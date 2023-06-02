@@ -3,9 +3,12 @@
 
 
 
- ![alt text](https://d-i-motion.com/wp-content/uploads/2023/05/Kedeishas-Banking-Services-1-1-600x600.png)
+ <img align= "center" alt= "code" width= "400" src= "https://d-i-motion.com/wp-content/uploads/2023/05/Kedeishas-Banking-Services-1-1-600x600.png">
  
  View Case Study [here](https://d-i-motion.com/lessons/kedeishas-banking-services/)
+ 
+ 
+ <img align= "right" alt= "office" width= "300" src= "https://img.freepik.com/premium-vector/typical-working-day-office-vector-illustration_680268-273.jpg?size=626&ext=jpg&uid=R104561754&ga=GA1.1.2040524197.1685204678&semt=ais">
  
  
  This case study is about the details of employees of a company. Here I used various SQL skills to analyze the data provided and also solved the business questions   asked. To sucessfully answer all the questions you should have been exposed to the following areas of SQL:

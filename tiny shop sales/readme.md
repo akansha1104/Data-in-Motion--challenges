@@ -44,7 +44,7 @@ Please join me in executing the queries using PostgreSQL on [DB fibble](https://
 
 
 
-💁 To view the solution of the case study click[ here]()
+💁 To view the solution of the case study click[ here](https://github.com/akansha1104/Data-in-Motion--challenges/blob/main/tiny%20shop%20sales/tiny%20shop%20solutions.md)
 
 
 

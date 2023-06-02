@@ -4,10 +4,12 @@
 
 
 
-![](https://d-i-motion.com/wp-content/uploads/2023/05/Tiny-Shop-Sales-624x624.png)
+!<img align= "center" alt= "tiny shop" width= "400" src="https://d-i-motion.com/wp-content/uploads/2023/05/Tiny-Shop-Sales-624x624.png">
 
 
 View Case Study [here](https://d-i-motion.com/lessons/customer-orders-analysis/)
+
+<img align= "right" alt= "tiny shop" width= "200" src= "https://img.freepik.com/free-vector/shop-with-open-sign_23-2148562251.jpg?size=626&ext=jpg&uid=R104561754&ga=GA1.2.2040524197.1685204678&semt=ais">
 
 This Case Study is about a Tiny shop which deals wih some products. Here dataset which is provided consists of tables named as
 1. Products - which gives the details like product_name, price,product_id of the products that are sold in this shop.

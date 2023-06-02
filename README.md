@@ -19,7 +19,7 @@ Thanks Kedeisha Bryan for the excellent SQL case studies!!.  💐👍
 
 
 
-![tiny shop](https://d-i-motion.com/wp-content/uploads/2023/05/Tiny-Shop-Sales-624x624.png)
+<img align= "center" alt= "sql" width= "400" src= "https://d-i-motion.com/wp-content/uploads/2023/05/Tiny-Shop-Sales-624x624.png">
 
 ## Business Task --
 
@@ -33,7 +33,7 @@ click [here](https://github.com/akansha1104/Data-in-Motion--challenges/blob/main
 # Case Study #2 : Human Resources 👷‍♂️ 👷‍♀️
 
 
-![human resources](https://d-i-motion.com/wp-content/uploads/2023/05/Kedeishas-Banking-Services-1-1-600x600.png)
+<img align= "center" alt= "sql" width= "400" src= "https://d-i-motion.com/wp-content/uploads/2023/05/Kedeishas-Banking-Services-1-1-600x600.png">
 
 
 ## Business Task --
